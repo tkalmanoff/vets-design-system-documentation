@@ -27,7 +27,7 @@ For terms that are not on this list, refer to [Merriam-Webster](https://www.merr
 
 **active duty**
 : Lowercase, and hyphenate when it modifies a noun. 
-: -	Like this: active-duty service member
+: -	Like this: active-duty service member  
 
 **advanced**
 : Capitalize only when used as part of the branded term "My HealtheVet Advanced." Otherwise lowercase.
